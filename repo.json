@@ -1,0 +1,13 @@
+{
+  "name": "AnimePahe Repository",
+  "author": "Your Name",
+  "description": "CloudStream repository for AnimePahe.",
+  "plugins": [
+    {
+      "name": "AnimePahe Plugin",
+      "url": "https://example.com/animepahe.apk",
+      "type": "apk",
+      "version": "1.0"
+    }
+  ]
+}
